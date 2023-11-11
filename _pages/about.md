@@ -55,21 +55,21 @@ The [Coastal Esco Explorer](https://uncw.edu/academics/colleges/wce/partnerships
 - **Requirements**: Experience one mobile application development language required; Flutter experience preferred. Strong object-oriented programming skills are a must.
 - [I'm interested!](mailto:laymanl@uncw.edu?subject=Coastal Eco Explorer)
 
-##### 2. Trust in AI-Assisted Coding
+<!-- ##### 2. Trust in AI-Assisted Coding
 LLMs like ChatGPT can generate code, but should we trust the results or sharing our data?
 - Systematically identify the limits of code-generation LLMs in software coding and testing tasks.
 - Conduct studies with programmers to discover LLM usage patterns and limitations.
 - **Requirements**: minimum 3.2 GPA and junior or higher standing, strong Python skills 
-- [I'm interested!](mailto:laymanl@uncw.edu?subject=Trust in AI-Assisted Coding)
+- [I'm interested!](mailto:laymanl@uncw.edu?subject=Trust in AI-Assisted Coding) -->
 
-##### 3. Performance Impact of Cybersecurity Tool UI Design
+<!-- ##### 3. Performance Impact of Cybersecurity Tool UI Design
 How does the design (color, audio, interruption) of cybersecurity alarm system UIs impact analyst performance?
 - Conduct studies of humans performing a cybersecurity task and capture their physiological outputs, including eye tracking and GSR.
 - **Requirements**: minimum 3.2 GPA and junior or higher standing, strong programming skills, experience in JavaScript or React/Electron development.
-- [I'm interested!](mailto:laymanl@uncw.edu?subject=Impact of Cyber UI Design)
+- [I'm interested!](mailto:laymanl@uncw.edu?subject=Impact of Cyber UI Design) -->
 
 
-##### 4. Novel Authentication Library for Android and iOS
+##### 2. Novel Authentication Library for Android and iOS
 Passwords are tedious and tokens can be stolen. This project will work with an external sponsor to implement an existing patent.
 - Write a mobile application library and web server backend that provides novel, gesture- and memory-based authentication.
 - **Requirements**: graduate student with undergraduate computer science degree and familiarity with Android, iOS, or cross-platform development tools.
