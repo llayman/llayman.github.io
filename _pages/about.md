@@ -50,6 +50,7 @@ The learning curve for proper git usage is steep, but a visual representation of
 
 ##### 1. Coastal Eco Explorer Mobile App Development
 The [Coastal Esco Explorer](https://uncw.edu/academics/colleges/wce/partnerships-centers/coastal-eco-explorer/) ([Android](https://play.google.com/store/apps/details?id=edu.uncwrf.coastalecoexplorer&hl=en_US&gl=US), [iOS](https://apps.apple.com/us/app/coastal-eco-explorer/id1500638322)) is UNCW's first homegrown app. It is a cross-platform mobile application that delivers educational information about Carolina Beach State Park and Fort Fisher State Recreation Area.
+- **Paid opportunity**
 - Contribute to a published, downloaded piece of software and learn about app publishing.
 - Implement best software development practices.
 - **Requirements**: Experience one mobile application development language required; Flutter experience preferred. Strong object-oriented programming skills are a must.
