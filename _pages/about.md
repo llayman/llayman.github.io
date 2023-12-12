@@ -48,13 +48,13 @@ The learning curve for proper git usage is steep, but a visual representation of
 - **Requirements**: minimum 3.2 GPA and junior or higher standing, strong programming skills. Experience with JavaScript preferred.
 - [I'm interested!](mailto:laymanl@uncw.edu?subject=Visual Assistant for Git) -->
 
-##### 1. Coastal Eco Explorer Mobile App Development
+<!-- ##### 1. Coastal Eco Explorer Mobile App Development
 The [Coastal Eco Explorer](https://uncw.edu/academics/colleges/wce/partnerships-centers/coastal-eco-explorer/) ([Android](https://play.google.com/store/apps/details?id=edu.uncwrf.coastalecoexplorer&hl=en_US&gl=US), [iOS](https://apps.apple.com/us/app/coastal-eco-explorer/id1500638322)) is UNCW's first homegrown app. It is a cross-platform mobile application that delivers educational information about Carolina Beach State Park and Fort Fisher State Recreation Area. This project will update the app's functionality.
 - **<span>$</span><span>$</span><span>$</span> Paid opportunity <span>$</span><span>$</span><span>$</span>**
 - Contribute to a published, downloaded piece of software and learn about app publishing.
 - Implement best software development practices.
 - **Requirements**: Experience with Flutter and strong object-oriented programming skills are required.
-- [I'm interested!](mailto:laymanl@uncw.edu?subject=Coastal Eco Explorer)
+- [I'm interested!](mailto:laymanl@uncw.edu?subject=Coastal Eco Explorer) -->
 
 <!-- ##### 2. Trust in AI-Assisted Coding
 LLMs like ChatGPT can generate code, but should we trust the results or sharing our data?
@@ -70,16 +70,16 @@ How does the design (color, audio, interruption) of cybersecurity alarm system U
 - [I'm interested!](mailto:laymanl@uncw.edu?subject=Impact of Cyber UI Design) -->
 
 
-##### 2. Novel Authentication Library for Android and iOS
+##### 1. Novel Authentication Library for Android and iOS
 Passwords are tedious and tokens can be stolen. This project will work with an external sponsor to implement an existing patent to implement a more user-friendly authentication and re-authentication process.
 - Write a mobile application library and web server backend that provides novel, gesture- and memory-based authentication.
 - **Open to**: CSC Undergraduate Honors Thesis or MSCSIS Capstone/Thesis.
 - **Requirements**: Must be familiar with Android, iOS, or cross-platform development tools. Strong object-oriented programming skills required.
 - [I'm interested!](mailto:laymanl@uncw.edu?subject=Auth Library for Android and iOS)
 
-##### 3. Sector-Programmable Touchpad Interface
+##### 1. Sector-Programmable Touchpad Interface
 Laptop touchpads are ubiquitous and have the potential to serve as context-aware button interface based on tap coordinates. This project will work with an external sponsor to implement an existing patent.
 - Write a native desktop application for Windows (C#) or MacOS (Swift) that recognizes location taps on a touchpad, and allows the user to bind the taps to specific commands depending on context.
-- **Open to**: CSC Undergraduate Honors Thesis or MSCSIS Capstone/Thesis.
+- **Open to**: Undergraduate or Graduate DIS.
 - **Requirements**: Strong object-oriented programming skills required. Familiarity with C# or Swift preferred.
 - [I'm interested!](mailto:laymanl@uncw.edu?subject=Sector-Programmable Touchpad Interface)
