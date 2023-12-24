@@ -24,11 +24,11 @@ I research human factors in software engineering and computer security with fora
 <!-- # Teaching -->
 
 ### Office Hours
-Wednesday 9&ndash;11 in CG 2045, or by appointment.
+TBA
 
-### Spring 2023 Courses
-- [CSC 351 &ndash; Applied Software Securty](https://uncw.instructure.com/courses/63301)
-- [CSC 450/550 &ndash; Software Engineering](https://uncw.instructure.com/courses/67153")
+### Spring 2024 Courses
+- [CSC 315 &ndash; Mobile Applications Development](https://uncw.instructure.com/courses/77305)
+- [CSC 450/550 &ndash; Software Engineering](https://uncw.instructure.com/courses/77262)
 
 
 <!-- 
@@ -36,7 +36,10 @@ Wednesday 9&ndash;11 in CG 2045, or by appointment.
 - CSC 231 &ndash; Introduction to Data Structures
 - CSC 242 &ndash; Computer Organization
 - CSC 315 &ndash; Mobile Applications Development
-- CSC 475/591 &ndash; Engineering Secure Software -->
+- CSC 475/591 &ndash; Engineering Secure Software 
+- [CSC 351 &ndash; Applied Software Securty](https://uncw.instructure.com/courses/63301)
+- [CSC 450/550 &ndash; Software Engineering](https://uncw.instructure.com/courses/67153)
+-->
 
 ### Research Opportunities
 I am seeking undergraduate and graduate researchers for multiple research projects beginning in Spring 2024. Please reach out if interested.
