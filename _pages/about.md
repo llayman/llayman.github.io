@@ -27,6 +27,7 @@ I research human factors in software engineering and computer security with fora
 TBA
 
 ### Spring 2024 Courses
+- [CSC 231 (Section 004) &ndash; Introduction to Data Structures](https://uncw.instructure.com/courses/77272)
 - [CSC 315 &ndash; Mobile Applications Development](https://uncw.instructure.com/courses/77305)
 - [CSC 450/550 &ndash; Software Engineering](https://uncw.instructure.com/courses/77262)
 
