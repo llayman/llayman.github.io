@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, <a href='https://uncw.edu/csc/'>Dept. of Computer Science</a>, <a href="https://www.uncw.edu/">UNCW</a>. 
+subtitle: Associate Professor, <a href='https://uncw.edu/csc/'>Dept. of Computer Science</a>, <a href="https://www.uncw.edu/">UNCW</a>. 
 
 profile:
   align: right
@@ -26,11 +26,9 @@ I research human factors in software engineering and computer security with fora
 ### Office Hours
 TBA
 
-### Spring 2024 Courses
-- [CSC 231 (Section 004) &ndash; Introduction to Data Structures](https://uncw.instructure.com/courses/77272)
-- [CSC 315 &ndash; Mobile Applications Development](https://uncw.instructure.com/courses/77305)
-- [CSC 450/550 &ndash; Software Engineering](https://uncw.instructure.com/courses/77262)
-
+### Fall 2024 Courses
+- CSC 450-001 &ndash; Software Engineering
+- SENG 201-001 &ndash; Software Engineering Fundamentals
 
 <!-- 
 ### Previous
