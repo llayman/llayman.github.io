@@ -81,7 +81,7 @@ Passwords are tedious and tokens can be stolen. This project will work with an e
 
 ##### 2. Sector-Programmable Touchpad Interface
 Laptop touchpads are ubiquitous and have the potential to serve as context-aware button interface based on tap coordinates. This project will work with an external sponsor to implement an existing patent.
-- Write a native desktop application for Windows (C#) or MacOS (Swift) that recognizes location taps on a touchpad, and allows the user to bind the taps to specific commands depending on context.
-- **Open to**: Undergraduate or Graduate DIS.
+- Write a native desktop application for Windows (C#) or MacOS (Swift) that recognizes location taps on a touchpad and allows the user to bind the taps to specific commands depending on context.
+- **Open to**: Undergraduate DIS or MSCSIS capstone..
 - **Requirements**: Strong object-oriented programming skills required. Familiarity with C# or Swift preferred.
 - [I'm interested!](mailto:laymanl@uncw.edu?subject=Sector-Programmable Touchpad Interface)
