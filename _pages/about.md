@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor, <a href='https://uncw.edu/csc/'>Dept. of Computer Science</a>, <a href="https://www.uncw.edu/">UNCW</a>. 
+subtitle: Associate Professor<br/><a href="https://uncw.edu/seng">Software Engineering Program Coordinator</a><br/><a href='https://uncw.edu/csc/'>Dept. of Computer Science</a>, <a href="https://www.uncw.edu/">UNCW</a>. 
 
 profile:
   align: right
@@ -24,10 +24,10 @@ I research human factors in software engineering and computer security with fora
 <!-- # Teaching -->
 
 ### Office Hours
-TBA
+Tuesday, 9-11a
 
-### Fall 2024 Courses
-- CSC 450-001 &ndash; Software Engineering
+### Spring 2025 Courses
+- CSC 315-001 &ndash; Mobile Applications Development
 - SENG 201-001 &ndash; Software Engineering Fundamentals
 
 <!-- 
@@ -41,7 +41,7 @@ TBA
 -->
 
 ### Research Opportunities
-I am seeking undergraduate and graduate researchers for multiple research projects beginning in Spring 2024. Please reach out if interested.
+I am seeking undergraduate and graduate researchers for multiple research projects beginning in Fall 2025. Please reach out if interested.
 
 <!-- ##### 1. Visual Assistant for Git in VSCode
 The learning curve for proper git usage is steep, but a visual representation of git state and next steps can help. 
@@ -81,7 +81,7 @@ Passwords are tedious and tokens can be stolen. This project will work with an e
 
 ##### 2. Sector-Programmable Touchpad Interface
 Laptop touchpads are ubiquitous and have the potential to serve as context-aware button interface based on tap coordinates. This project will work with an external sponsor to implement an existing patent.
-- Write a native desktop application for Windows (C#) or MacOS (Swift) that recognizes location taps on a touchpad and allows the user to bind the taps to specific commands depending on context.
+- Write a native desktop application for MacOS (Swift) that recognizes location taps on a touchpad and allows the user to bind the taps to specific commands depending on context.
 - **Open to**: Undergraduate DIS or MSCSIS capstone..
 - **Requirements**: Strong object-oriented programming skills required. Familiarity with C# or Swift preferred.
 - [I'm interested!](mailto:laymanl@uncw.edu?subject=Sector-Programmable Touchpad Interface)
