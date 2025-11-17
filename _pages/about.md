@@ -24,10 +24,11 @@ I research human factors in software engineering and computer security with fora
 <!-- # Teaching -->
 
 ### Office Hours
-Tuesday, 9-11a
+- Monday, 9-11a
+- Wednesday, 9-10:30a
 
-### Spring 2025 Courses
-- CSC 315-001 &ndash; Mobile Applications Development
+### Fall 2025 Courses
+- SENG 401-001 &ndash; Software Construction
 - SENG 201-001 &ndash; Software Engineering Fundamentals
 
 <!-- 
@@ -41,7 +42,7 @@ Tuesday, 9-11a
 -->
 
 ### Research Opportunities
-I am seeking undergraduate and graduate researchers for multiple research projects beginning in Fall 2025. Please reach out if interested.
+I am seeking undergraduate and graduate researchers for multiple research projects beginning in Spring 2026. Please reach out if interested.
 
 <!-- ##### 1. Visual Assistant for Git in VSCode
 The learning curve for proper git usage is steep, but a visual representation of git state and next steps can help. 
@@ -58,12 +59,12 @@ The [Coastal Eco Explorer](https://uncw.edu/academics/colleges/wce/partnerships-
 - **Requirements**: Experience with Flutter and strong object-oriented programming skills are required.
 - [I'm interested!](mailto:laymanl@uncw.edu?subject=Coastal Eco Explorer) -->
 
-<!-- ##### 2. Trust in AI-Assisted Coding
+##### 1. Trust in AI-Assisted Coding
 LLMs like ChatGPT can generate code, but should we trust the results or sharing our data?
 - Systematically identify the limits of code-generation LLMs in software coding and testing tasks.
 - Conduct studies with programmers to discover LLM usage patterns and limitations.
 - **Requirements**: minimum 3.2 GPA and junior or higher standing, strong Python skills 
-- [I'm interested!](mailto:laymanl@uncw.edu?subject=Trust in AI-Assisted Coding) -->
+- [I'm interested!](mailto:laymanl@uncw.edu?subject=Trust in AI-Assisted Coding)
 
 <!-- ##### 3. Performance Impact of Cybersecurity Tool UI Design
 How does the design (color, audio, interruption) of cybersecurity alarm system UIs impact analyst performance?
@@ -72,10 +73,10 @@ How does the design (color, audio, interruption) of cybersecurity alarm system U
 - [I'm interested!](mailto:laymanl@uncw.edu?subject=Impact of Cyber UI Design) -->
 
 
-##### 1. Novel Authentication Library for Android and iOS
+<!-- ##### 1. Novel Authentication Library for Android and iOS
 Passwords are tedious and tokens can be stolen. This project will work with an external sponsor to implement an existing patent to implement a more user-friendly authentication and re-authentication process.
 - Write a mobile application library and web server backend that provides novel, gesture- and memory-based authentication.
 - **Open to**: CSC Undergraduate Honors Thesis or MSCSIS Capstone/Thesis.
 - **Requirements**: Must be familiar with Android, iOS, or cross-platform development tools. Strong object-oriented programming skills required.
-- [I'm interested!](mailto:laymanl@uncw.edu?subject=Auth Library for Android and iOS)
+- [I'm interested!](mailto:laymanl@uncw.edu?subject=Auth Library for Android and iOS) -->
 
