@@ -24,25 +24,32 @@ I research human factors in software engineering and computer security with fora
 <!-- # Teaching -->
 
 ### Office Hours
-- Monday, 9-11a
-- Wednesday, 9-10:30a
+- Tuesday, 9-11a
+- Thursday, 9-10:00a
 
-### Fall 2025 Courses
-- SENG 401-001 &ndash; Software Construction
-- SENG 201-001 &ndash; Software Engineering Fundamentals
+### Spring 2026 Courses
+- [CSC 450 &ndash; Software Engineering](https://uncw.instructure.com/courses/103371)
+- [SENG 458 &ndash; Software Practicum I](https://uncw.instructure.com/courses/101393)
+- [SENG 495 &ndash; Seminar in Software Engineering](https://uncw.instructure.com/courses/101412)
+
 
 <!-- 
 ### Previous
+- SENG 201-001 &ndash; Software Engineering Fundamentals
 - CSC 231 &ndash; Introduction to Data Structures
 - CSC 242 &ndash; Computer Organization
 - CSC 315 &ndash; Mobile Applications Development
 - CSC 475/591 &ndash; Engineering Secure Software 
 - [CSC 351 &ndash; Applied Software Securty](https://uncw.instructure.com/courses/63301)
 - [CSC 450/550 &ndash; Software Engineering](https://uncw.instructure.com/courses/67153)
+- SENG 401-001 &ndash; Software Construction
 -->
-
+<!-- 
 ### Research Opportunities
-I am seeking undergraduate and graduate researchers for multiple research projects beginning in Spring 2026. Please reach out if interested.
+
+I am not accepting additional student researchers at this time. -->
+
+<!-- I am seeking undergraduate and graduate researchers for multiple research projects beginning in Spring 2026. Please reach out if interested. -->
 
 <!-- ##### 1. Visual Assistant for Git in VSCode
 The learning curve for proper git usage is steep, but a visual representation of git state and next steps can help. 
@@ -59,12 +66,12 @@ The [Coastal Eco Explorer](https://uncw.edu/academics/colleges/wce/partnerships-
 - **Requirements**: Experience with Flutter and strong object-oriented programming skills are required.
 - [I'm interested!](mailto:laymanl@uncw.edu?subject=Coastal Eco Explorer) -->
 
-##### 1. Trust in AI-Assisted Coding
+<!-- ##### 1. Trust in AI-Assisted Coding
 LLMs like ChatGPT can generate code, but should we trust the results or sharing our data?
 - Systematically identify the limits of code-generation LLMs in software coding and testing tasks.
 - Conduct studies with programmers to discover LLM usage patterns and limitations.
 - **Requirements**: minimum 3.2 GPA and junior or higher standing, strong Python skills 
-- [I'm interested!](mailto:laymanl@uncw.edu?subject=Trust in AI-Assisted Coding)
+- [I'm interested!](mailto:laymanl@uncw.edu?subject=Trust in AI-Assisted Coding) -->
 
 <!-- ##### 3. Performance Impact of Cybersecurity Tool UI Design
 How does the design (color, audio, interruption) of cybersecurity alarm system UIs impact analyst performance?
