@@ -1,0 +1,51 @@
+---
+title: 'Toward Reducing Fault Fix Time: Understanding Developer Behavior for the Design of Automated Fault
+  Detection Tools'
+authors:
+- Lucas Layman
+- Laurie Williams
+- Robert St. Amant
+date: '2007-09-01'
+publishDate: '2026-06-22T18:15:05.267836Z'
+publication_types:
+- paper-conference
+publication:
+  name: First International Symposium on Empirical Software Engineering and Measurement (ESEM 2007)
+  pages: 176-185
+  publisher: IEEE
+abstract: The longer a fault remains in the code from the time it was injected, the more time it will
+  take to fix the fault. Increasingly, automated fault detection (AFD) tools are providing developers
+  with prompt feedback on recently-introduced faults to reduce fault fix time. If however, the frequency
+  and content of this feedback does not match the developer's goals and/or workflow, the developer may
+  ignore the information. We conducted a controlled study with 18 developers to explore what factors are
+  used by developers to decide whether or not to address a fault when notified of the error. The findings
+  of our study lead to several conjectures about the design of AFD tools to effectively notify developers
+  of faults in the coding phase. The AFD tools should present fault information that is relevant to the
+  primary programming task with accurate and precise descriptions. The fault severity and the specific
+  timing of fault notification should be customizable. Finally, the AFD tool must be accurate and reliable
+  to build trust with the developer.
+tags:
+- AFD tools
+- Automatic control
+- Computer science
+- Error correction
+- Fault detection
+- Feedback
+- Frequency
+- Software engineering
+- Software measurement
+- Time measurement
+- Timing
+- automated fault detection tools
+- developer behavior
+- fault diagnosis
+- fault fix time
+- fault information
+- fault notification
+- fault severity
+- mypubs
+- software tools
+hugoblox:
+  ids:
+    doi: 10.1109/ESEM.2007.11
+---

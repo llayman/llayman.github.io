@@ -1,0 +1,34 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Lucas Layman
+  given: Lucas
+  family: Layman
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+postnominals:
+  - PhD
+role: Associate Professor, Software Engineering Program Coordinator
+bio: |
+  I research human factors in software engineering and computer security with forays into machine learning and analytics.
+
+  601 S. College Rd., Campus Box 5935, Wilmington, NC 28403
+
+affiliations:
+  - name: Dept. of Computer Science, UNCW
+    url: https://uncw.edu/csc/
+  - name: Software Engineering Program
+    url: https://uncw.edu/seng
+
+links:
+  - icon: at-symbol
+    url: mailto:laymanl@uncw.edu
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/llayman
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/lucaslayman/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=DdQxZIgAAAAJ
