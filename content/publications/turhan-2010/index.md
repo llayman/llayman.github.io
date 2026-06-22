@@ -7,13 +7,11 @@ authors:
 - Hakan Erdogmus
 - Forrest Shull
 date: '2010-01-01'
-publishDate: '2026-06-22T18:15:05.467937Z'
+publishDate: '2026-06-22T21:16:44.582226Z'
 publication_types:
 - chapter
 publication:
   name: 'Making Software: What Really Works, and Why We Believe It'
-  pages: 207-219
-  publisher: O'Reilly
 tags:
 - mypubs
 ---

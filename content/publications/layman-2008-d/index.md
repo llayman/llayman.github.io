@@ -7,14 +7,11 @@ authors:
 - Jeff Beehler
 - Andrew Begel
 date: '2008-05-01'
-publishDate: '2026-06-22T18:15:05.440657Z'
+publishDate: '2026-06-22T21:16:44.555487Z'
 publication_types:
 - paper-conference
 publication:
-  name: Proceedings of the 2008 International Working Conference on Mining software repositories - MSR
-    '08
-  pages: 43-46
-  publisher: ACM Press
+  name: Proceedings of the 2008 International Working Conference on Mining software repositories - MSR '08
 tags:
 - effort estimation
 - mypubs

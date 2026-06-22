@@ -5,12 +5,11 @@ authors:
 - Lucas Layman
 - Marvin V. Zelkowitz
 date: '2011-01-01'
-publishDate: '2026-06-22T18:15:05.415780Z'
+publishDate: '2026-06-22T21:16:44.531550Z'
 publication_types:
 - manuscript
 publication:
   name: Fraunhofer Center for Experimental Software Engineering
-  publisher: Fraunhofer Center for Experimental Software Engineering
 tags:
 - mypubs
 ---

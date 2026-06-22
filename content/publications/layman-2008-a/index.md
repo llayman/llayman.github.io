@@ -5,12 +5,11 @@ authors:
 - Laurie A Williams
 - Robert St. Amant
 date: '2008-01-01'
-publishDate: '2026-06-22T18:15:05.489817Z'
+publishDate: '2026-06-22T21:16:44.606722Z'
 publication_types:
 - paper-conference
 publication:
   name: 1st Workshop on Cooperative and Human Aspects of Software Engineering (CHASE '08)
-  pages: 73-76
 tags:
 - mypubs
 ---

@@ -1,11 +1,10 @@
 ---
-title: The Cry Wolf IDS Simulator - An environment for conducting controlled experiments of cyber security
-  analysis tasks
+title: The Cry Wolf IDS Simulator - An environment for conducting controlled experiments of cyber security analysis tasks
 authors:
 - William Roden
 - Lucas Layman
 date: '2019-01-01'
-publishDate: '2026-06-22T18:15:05.211363Z'
+publishDate: '2026-06-22T21:16:44.304348Z'
 publication_types:
 - manuscript
 publication:

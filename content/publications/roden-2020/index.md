@@ -4,13 +4,11 @@ authors:
 - William Roden
 - Lucas Layman
 date: '2020-01-01'
-publishDate: '2026-06-22T18:15:05.206645Z'
+publishDate: '2026-06-22T21:16:44.300154Z'
 publication_types:
 - paper-conference
 publication:
   name: Proceedings of the 2020 ACM Southeast Conference (ACMSE 2020)
-  pages: 264-267
-  publisher: ACM
 links:
 - name: URL
   url: https://arxiv.org/abs/2002.10530

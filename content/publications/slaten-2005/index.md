@@ -1,6 +1,5 @@
 ---
-title: 'Undergraduate Student Perceptions of Pair Programming and Agile Software Methodologies: Verifying
-  a Model of Social Interaction'
+title: 'Undergraduate Student Perceptions of Pair Programming and Agile Software Methodologies: Verifying a Model of Social Interaction'
 authors:
 - Kelli M Slaten
 - Maria Droujkova
@@ -8,22 +7,12 @@ authors:
 - Laurie Williams
 - Lucas Layman
 date: '2005-01-01'
-publishDate: '2026-06-22T18:15:05.350078Z'
+publishDate: '2026-06-22T21:16:44.450467Z'
 publication_types:
 - paper-conference
 publication:
   name: Agile Development Conference (ADC'05)
-  pages: 323-330
-  publisher: IEEE Comput. Soc
-abstract: One of the reasons that undergraduate students, particularly women and minorities, can become
-  disenchanted with computer science education is because software development is wrongly characterized
-  as a solitary activity. We conducted a collective case study in a software engineering course at North
-  Carolina State University to ascertain the effects of a collaborative pedagogy intervention on student
-  perceptions. The pedagogy intervention was based upon the practices of agile software development with
-  a focus on pair programming. Six representative students in the course participated in the study. Their
-  perspectives helped validate a social interaction model of student views. The findings suggest that
-  pair programming and agile software methodologies contribute to more effective learning opportunities
-  for computer science students and that students understand and appreciate these benefits.
+abstract: One of the reasons that undergraduate students, particularly women and minorities, can become disenchanted with computer science education is because software development is wrongly characterized as a solitary activity. We conducted a collective case study in a software engineering course at North Carolina State University to ascertain the effects of a collaborative pedagogy intervention on student perceptions. The pedagogy intervention was based upon the practices of agile software development with a focus on pair programming. Six representative students in the course participated in the study. Their perspectives helped validate a social interaction model of student views. The findings suggest that pair programming and agile software methodologies contribute to more effective learning opportunities for computer science students and that students understand and appreciate these benefits.
 tags:
 - Collaborative software
 - Collaborative work

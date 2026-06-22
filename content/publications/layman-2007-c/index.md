@@ -5,13 +5,11 @@ authors:
 - Laurie Williams
 - Kelli Slaten
 date: '2007-03-01'
-publishDate: '2026-06-22T18:15:05.451931Z'
+publishDate: '2026-06-22T21:16:44.566608Z'
 publication_types:
 - paper-conference
 publication:
   name: Proceedings of the 28th SIGCSE Technical Symposium on Computer Science Education
-  pages: 459-463
-  publisher: ACM
 tags:
 - CS1
 - mypubs

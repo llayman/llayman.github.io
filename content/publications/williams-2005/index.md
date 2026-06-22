@@ -5,15 +5,11 @@ authors:
 - Lucas Layman
 - Pekka Abrahamsson
 date: '2005-07-01'
-publishDate: '2026-06-22T18:15:05.428882Z'
+publishDate: '2026-06-22T21:16:44.546142Z'
 publication_types:
 - article-journal
 publication:
   name: ACM SIGSOFT Software Engineering Notes
-  volume: '30'
-  issue: '4'
-  pages: '1'
-  publisher: ACM
 tags:
 - mypubs
 hugoblox:

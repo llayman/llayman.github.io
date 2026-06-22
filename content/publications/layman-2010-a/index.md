@@ -5,12 +5,11 @@ authors:
 - Victor R. Basili
 - Marvin V. Zelkowitz
 date: '2010-01-01'
-publishDate: '2026-06-22T18:15:05.411627Z'
+publishDate: '2026-06-22T21:16:44.525541Z'
 publication_types:
 - manuscript
 publication:
   name: NASA
-  publisher: NASA
 tags:
 - mypubs
 ---

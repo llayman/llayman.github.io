@@ -3,12 +3,11 @@ title: Identifying Potential Deficiencies in Agile Requirements Engineering Prac
 authors:
 - L Layman
 date: '2004-01-01'
-publishDate: '2026-06-22T18:15:05.498042Z'
+publishDate: '2026-06-22T21:16:44.615809Z'
 publication_types:
 - manuscript
 publication:
   name: North Carolina State University
-  publisher: North Carolina State University
 tags:
 - mypubs
 ---

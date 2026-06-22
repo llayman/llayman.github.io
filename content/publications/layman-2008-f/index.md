@@ -5,14 +5,11 @@ authors:
 - Gunnar Kudrjavets
 - Nachiappan Nagappan
 date: '2008-10-01'
-publishDate: '2026-06-22T18:15:05.306710Z'
+publishDate: '2026-06-22T21:16:44.405462Z'
 publication_types:
 - paper-conference
 publication:
-  name: Proceedings of the Second ACM-IEEE international symposium on Empirical software engineering and
-    measurement - ESEM '08
-  pages: 206-212
-  publisher: ACM Press
+  name: Proceedings of the Second ACM-IEEE international symposium on Empirical software engineering and measurement - ESEM '08
 tags:
 - churn
 - code churn
